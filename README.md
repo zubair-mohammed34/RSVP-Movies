@@ -23,15 +23,9 @@
 
 ![Screenshot 2024-11-29 103128](https://github.com/user-attachments/assets/733a8d72-48e8-4ba0-915d-64bf4ad6851c)
 
-## Highlights
-
-* Analyzed three years of data to derive actionable insights.
-* Contributed significantly to team discussions and troubleshooting sessions.
-* Worked diligently and stayed committed to the project, even through late hours.
-
 ## Skills Utilized
 
-* Data Analysis * SQL Query Optimization * Business Intelligence * Data Visualization
+* Data Analysis * SQL Query Optimization * Business Intelligence
 
 ## Impact
-Our thorough analysis and recommendations will aid RSVP Movies in successfully launching their film to a global audience, ensuring they make data-driven decisions for better market penetration and audience engagement.
+This analysis and recommendations will aid RSVP Movies in successfully launching their film to a global audience, ensuring they make data-driven decisions for better market penetration and audience engagement.
